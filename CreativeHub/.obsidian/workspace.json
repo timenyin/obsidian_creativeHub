@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "14e890424bcde702",
+        "id": "35498f61ebc2f3d8",
         "type": "tabs",
         "children": [
           {
-            "id": "4a60c0b2eb63e3df",
+            "id": "dd3aa235bb4e1e28",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CreativeHub Freelance Website.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#user-friendly",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 240.5
   },
   "right": {
     "id": "aa70d9a6f660200f",
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CreativeHub Freelance Website.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CreativeHub Freelance Website.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,14 +124,17 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CreativeHub Freelance Website.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 367.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -137,11 +146,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4a60c0b2eb63e3df",
+  "active": "dd3aa235bb4e1e28",
   "lastOpenFiles": [
-    "harmony.md",
-    "Welcome.md",
+    "Request Folder.md",
+    "Proposals Folder.md",
+    "Order Files Folder.md",
+    "Manger Order Folder.md",
+    "Includes Folder.md",
+    "Front-End Documentation Outline..md",
+    "CreativeHub Freelance Website.md",
+    "Conversation Folder.md",
+    "Assets Folder.md",
+    "Team.md",
+    "Untitled.canvas",
+    "manger_order folder.md",
     "create a link.md",
+    "project.md",
+    "harmony.md",
     "va[[harmony.md"
   ]
 }
