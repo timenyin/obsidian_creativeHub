@@ -1,4 +1,4 @@
-##### [[CreativeHub Freelance Website]]
+`##### [[CreativeHub Freelance Website]]
 ## List of Files to be Created 
 
 **==Folders==** 
@@ -11,11 +11,11 @@ conversation (links to [[Conversation Folder]])
 	.css
 	.images
 	
-assets (links to [[Assets Folder]]) 
+doc (links to [[docs]] )
 	
 .includes (links to [[Includes Folder]])
-	
-	.js
+
+.documents (links to [[documents]])
 	
 .manger_order (links to [[Manger Order Folder]])
 	

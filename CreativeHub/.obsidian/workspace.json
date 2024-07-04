@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "35498f61ebc2f3d8",
+        "id": "08e496331e70ad12",
         "type": "tabs",
         "children": [
           {
-            "id": "dd3aa235bb4e1e28",
+            "id": "719838ef51f00a69",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CreativeHub Freelance Website.md",
+                "file": "Front-End Documentation Outline..md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CreativeHub Freelance Website.md",
+                "file": "Front-End Documentation Outline..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CreativeHub Freelance Website.md",
+                "file": "Front-End Documentation Outline..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +115,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CreativeHub Freelance Website.md"
+                "file": "Front-End Documentation Outline..md"
               }
             }
           }
@@ -134,7 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 367.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,19 +146,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dd3aa235bb4e1e28",
+  "active": "719838ef51f00a69",
   "lastOpenFiles": [
-    "Request Folder.md",
-    "Proposals Folder.md",
-    "Order Files Folder.md",
-    "Manger Order Folder.md",
     "Includes Folder.md",
     "Front-End Documentation Outline..md",
     "CreativeHub Freelance Website.md",
-    "Conversation Folder.md",
+    "documents.md",
+    "formats.md",
     "Assets Folder.md",
-    "Team.md",
+    "docs.md",
+    "Conversation Folder.md",
+    "Untitled.md",
+    "Request Folder.md",
+    "Proposals Folder.md",
+    "order files.md",
+    "manage order.md",
+    "js (JavaScript Folder).md",
+    "Untitled",
     "Untitled.canvas",
+    "Order Files Folder.md",
+    "Manger Order Folder.md",
+    "Team.md",
     "manger_order folder.md",
     "create a link.md",
     "project.md",
